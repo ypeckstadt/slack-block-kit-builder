@@ -1,1 +1,1 @@
-# slack-block-kit-builder
+# Block Kit builder for Slack apps
